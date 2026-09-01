@@ -1,6 +1,6 @@
 <h2 align="center">
-مشاريعي في سي بلس بلس مع د. محمد ابو هدهود <br>
-  My C++ Projects With Dr. Mohammed Abu Hadhoud
+مشاريعي مع د. محمد ابو هدهود <br>
+  My Projects With Dr. Mohammed Abu Hadhoud
 </h2>
 
 <br><br>
